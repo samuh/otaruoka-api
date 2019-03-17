@@ -1,0 +1,244 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Tietotekniikantalo",
+      "url": "https://www.sodexo.fi/tietotekniikantalo",
+      "uid": "142",
+      "campus": 2,
+      "source": "https://www.sodexo.fi/ruokalistat/output/daily_json/{uid}/{year}/{month}/{date}/{lang}"
+    },
+    {
+      "id": 2,
+      "title": "Alvari",
+      "url": "https://www.fazerfoodco.fi/ravintolat/Ravintolat-kaupungeittain/espoo/alvari/",
+      "uid": "0190",
+      "campus": 2,
+      "source": "https://www.fazerfoodco.fi/modules/json/json/Index?costNumber={uid}&language={lang}"
+    },
+    {
+      "id": 3,
+      "title": "Dipoli (Ravintola Reima)",
+      "url": "https://www.fazerfoodco.fi/dipoli",
+      "uid": "3101",
+      "campus": 2,
+      "source": "https://www.fazerfoodco.fi/modules/json/json/Index?costNumber={uid}&language={lang}"
+    },
+    {
+      "id": 4,
+      "title": "Kvarkki",
+      "url": "https://www.sodexo.fi/kvarkki",
+      "uid": "26521",
+      "campus": 2,
+      "source": "https://www.sodexo.fi/ruokalistat/output/daily_json/{uid}/{year}/{month}/{date}/{lang}"
+    },
+    {
+      "id": 5,
+      "title": "TUAS",
+      "url": "https://www.fazerfoodco.fi/ravintolat/Ravintolat-kaupungeittain/espoo/aalto-yliopisto-tuas/",
+      "uid": "0199",
+      "campus": 2,
+      "source": "https://www.fazerfoodco.fi/modules/json/json/Index?costNumber={uid}&language={lang}"
+    },
+    {
+      "id": 6,
+      "title": "Valimo",
+      "url": "https://www.sodexo.fi/aalto-valimo",
+      "uid": "13918",
+      "campus": 2,
+      "source": "https://www.sodexo.fi/ruokalistat/output/daily_json/{uid}/{year}/{month}/{date}/{lang}"
+    },
+    {
+      "id": 7,
+      "title": "Konetekniikka",
+      "url": "https://www.sodexo.fi/konetekniikka",
+      "uid": "140",
+      "campus": 2,
+      "source": "https://www.sodexo.fi/ruokalistat/output/daily_json/{uid}/{year}/{month}/{date}/{lang}"
+    },
+    {
+      "id": 8,
+      "title": "A Bloc",
+      "url": "https://www.fazerfoodco.fi/ravintolat/Ravintolat-kaupungeittain/espoo/a-bloc/",
+      "uid": "3087",
+      "campus": 2,
+      "source": "https://www.fazerfoodco.fi/modules/json/json/Index?costNumber={uid}&language={lang}"
+    },
+    {
+      "id": 9,
+      "title": "Cafe Portaali",
+      "url": "https://www.unicafe.fi/#/5/",
+      "uid": "5",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 10,
+      "title": "Metsätalo",
+      "url": "https://www.unicafe.fi/#/1/",
+      "uid": "1",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 11,
+      "title": "Olivia",
+      "url": "https://www.unicafe.fi/#/2/",
+      "uid": "2",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 12,
+      "title": "Pesco & Vege Topelias",
+      "url": "https://www.unicafe.fi/#/7/",
+      "uid": "7",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 13,
+      "title": "Porthania",
+      "url": "https://www.unicafe.fi/#/39/",
+      "uid": "39",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 14,
+      "title": "Päärakennus",
+      "url": "https://www.unicafe.fi/#/4/",
+      "uid": "4",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 15,
+      "title": "Rotunda",
+      "url": "https://www.unicafe.fi/#/38/",
+      "uid": "38",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 16,
+      "title": "Soc&Kom",
+      "url": "https://www.unicafe.fi/#/15/",
+      "uid": "15",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 17,
+      "title": "Ylioppilasaukio",
+      "url": "https://www.unicafe.fi/#/9/",
+      "uid": "9",
+      "campus": 3,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 18,
+      "title": "Chemicum",
+      "url": "https://www.unicafe.fi/#/10/",
+      "uid": "10",
+      "campus": 4,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 19,
+      "title": "Exactum",
+      "url": "https://www.unicafe.fi/#/11/",
+      "uid": "11",
+      "campus": 4,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 20,
+      "title": "Physicum",
+      "url": "https://www.unicafe.fi/#/12/",
+      "uid": "12",
+      "campus": 4,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 21,
+      "title": "Meilahti",
+      "url": "https://www.unicafe.fi/#/13/",
+      "uid": "13",
+      "campus": 6,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 22,
+      "title": "Ruskeasuo",
+      "url": "https://www.unicafe.fi/#/13/",
+      "uid": "13",
+      "campus": 6,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 23,
+      "title": "Biokeskus",
+      "url": "https://www.unicafe.fi/#/16/",
+      "uid": "16",
+      "campus": 5,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 24,
+      "title": "Korona",
+      "url": "https://www.unicafe.fi/#/17/",
+      "uid": "17",
+      "campus": 5,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 25,
+      "title": "Viikuna",
+      "url": "https://www.unicafe.fi/#/18/",
+      "uid": "18",
+      "campus": 5,
+      "source": "https://messi.hyyravintolat.fi/publicapi/restaurant/{uid}"
+    },
+    {
+      "id": 26,
+      "title": "Ladonlukko",
+      "url": "https://www.sodexo.fi/ravintolaladonlukko",
+      "uid": "62",
+      "campus": 5,
+      "source": "https://www.sodexo.fi/ruokalistat/output/daily_json/{uid}/{year}/{month}/{date}/{lang}"
+    },
+    {
+      "id": 27,
+      "title": "Viikin kartano",
+      "url": "https://www.sodexo.fi/viikinkartano",
+      "uid": "103",
+      "campus": 5,
+      "source": "https://www.sodexo.fi/ruokalistat/output/daily_json/{uid}/{year}/{month}/{date}/{lang}"
+    },
+    {
+      "id": 28,
+      "title": "Svenska Handelshögskolan",
+      "url": "https://www.fazerfoodco.fi/ravintolat/Ravintolat-kaupungeittain/helsinki/svenska-handelshogskolan/",
+      "uid": "3406",
+      "campus": 7,
+      "source": "https://www.fazerfoodco.fi/modules/json/json/Index?costNumber={uid}&language={lang}"
+    },
+    {
+      "id": 29,
+      "title": "Täffä",
+      "url": "https://www.teknologforeningen.fi",
+      "uid": "",
+      "campus": 2,
+      "source": "https://www.teknologforeningen.fi/?lang={lang}"
+    },
+    {
+      "id": 30,
+      "title": "Osakuntabaari",
+      "url": "https://hys.net/osakuntabaari/ruokalista/",
+      "uid": "",
+      "campus": 3,
+      "source": "https://hys.net/osakuntabaari/ruokalista/"
+    }
+  ]
+}

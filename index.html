@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="fi">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Pääkaupunkiseudun opiskelijaravintoloiden ruokalistat">
+    <title>Otaruoka</title>
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <style type="text/css">
+        * {
+            font-family: 'Titillium Web', sans-serif;
+            -webkit-font-smoothing: antialiased !important;
+        }
+        html, body {
+            margin: 0;
+            height: 100%;
+            width: 100%;
+            background-color: #F5B0AB
+        }
+        .product-device {
+            position: absolute;
+            right: 10%;
+            bottom: -30%;
+            width: 300px;
+            height: 540px;
+            background-color: #333;
+            border-radius: 21px;
+            -webkit-transform: rotate(30deg);
+            transform: rotate(30deg);
+        }
+        .product-device::before {
+            position: absolute;
+            top: 10%;
+            right: 10px;
+            bottom: 10%;
+            left: 10px;
+            content: "";
+            background-color: rgba(255, 255, 255, .1);
+            border-radius: 5px;
+        }
+        .product-device-2 {
+            top: -25%;
+            right: auto;
+            bottom: 0;
+            left: 5%;
+            background-color: #e5e5e5;
+        }
+        @media(max-width: 991px){
+            .overflow-hidden {
+                overflow-y: auto !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="position-relative overflow-hidden p-3 p-md-5 text-center h-100 w-100">
+        <div class="col-md-5 p-lg-5 mx-auto my-5">
+            <img src="img/appicon.png" alt="Otaruoka App Icon" style="width: 256px;">
+            <h1 class="display-4" style="font-weight: bold;color:white;">Otaruoka</h1>
+            <p class="lead font-weight-normal" style="color:white;">Pääkaupunkiseudun opiskelijaravintoloiden ruokalistat mobiilisovelluksena. Lataa tästä.</p>
+            <ul class="list-unstyled mt-5">
+                <li class="list-item-unstyled">
+                    <a href='http://play.google.com/store/com.otaruoka?pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                        <img alt='Download on the App Store' style="width:220px" src='img/appstore.png'/>
+                    </a>
+                </li>
+                <li class="list-item-unstyled">
+                    <a href='http://play.google.com/store/com.otaruoka?pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+                        <img alt='Get it on Google Play' style="width:250px;" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="product-device shadow-sm d-none d-md-block"></div>
+        <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+    </div>
+</body>
+</html>

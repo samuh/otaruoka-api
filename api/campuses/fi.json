@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Suosikit",
+      "description": "Tallennetut suosikkiravintolat",
+      "image": "https://images.pexels.com/photos/277253/pexels-photo-277253.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    },
+    {
+      "id": 2,
+      "title": "Otaniemi",
+      "description": "Aalto-yliopisto",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Helsinki_University_of_Technology_auditorium.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Keskusta",
+      "description": "Helsingin yliopisto",
+      "image": "https://www.helsinki.fi/sites/default/files/styles/large_content_image/public/thumbnails/image/keskusta_yleiskuva_kampussivulle.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kumpula",
+      "description": "Helsingin yliopisto",
+      "image": "https://www.helsinki.fi/sites/default/files/styles/large_content_image/public/thumbnails/image/kumpula_ilmakuva_kampus.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Viikki",
+      "description": "Helsingin yliopisto",
+      "image": "https://www.helsinki.fi/sites/default/files/styles/8_3_large/public/ilmakuva_viikki.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Meilahti",
+      "description": "Helsingin yliopisto",
+      "image": "https://www.helsinki.fi/sites/default/files/styles/8_3_large/public/meilahti_ilmakuva_helifoto_1920x500.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Töölö",
+      "description": "Hanken",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Svenska_Handelsh%C3%B6gskolan_Helsingfors.jpg"
+    }
+  ]
+}
